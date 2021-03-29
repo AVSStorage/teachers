@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/teachers/static/css/main.d5811a72.chunk.css",
-    "main.js": "/teachers/static/js/main.ac2b2184.chunk.js",
-    "main.js.map": "/teachers/static/js/main.ac2b2184.chunk.js.map",
-    "runtime-main.js": "/teachers/static/js/runtime-main.96ffc2c3.js",
-    "runtime-main.js.map": "/teachers/static/js/runtime-main.96ffc2c3.js.map",
-    "static/js/2.7fe142e4.chunk.js": "/teachers/static/js/2.7fe142e4.chunk.js",
-    "static/js/2.7fe142e4.chunk.js.map": "/teachers/static/js/2.7fe142e4.chunk.js.map",
-    "static/js/3.8400c585.chunk.js": "/teachers/static/js/3.8400c585.chunk.js",
-    "static/js/3.8400c585.chunk.js.map": "/teachers/static/js/3.8400c585.chunk.js.map",
+    "main.css": "/teachers/static/css/main.cefd25bb.chunk.css",
+    "main.js": "/teachers/static/js/main.eff30082.chunk.js",
+    "main.js.map": "/teachers/static/js/main.eff30082.chunk.js.map",
+    "runtime-main.js": "/teachers/static/js/runtime-main.2869d0b6.js",
+    "runtime-main.js.map": "/teachers/static/js/runtime-main.2869d0b6.js.map",
+    "static/js/2.c0edd438.chunk.js": "/teachers/static/js/2.c0edd438.chunk.js",
+    "static/js/2.c0edd438.chunk.js.map": "/teachers/static/js/2.c0edd438.chunk.js.map",
+    "static/js/3.66344ce7.chunk.js": "/teachers/static/js/3.66344ce7.chunk.js",
+    "static/js/3.66344ce7.chunk.js.map": "/teachers/static/js/3.66344ce7.chunk.js.map",
     "index.html": "/teachers/index.html",
-    "static/css/main.d5811a72.chunk.css.map": "/teachers/static/css/main.d5811a72.chunk.css.map",
-    "static/js/2.7fe142e4.chunk.js.LICENSE.txt": "/teachers/static/js/2.7fe142e4.chunk.js.LICENSE.txt",
+    "static/css/main.cefd25bb.chunk.css.map": "/teachers/static/css/main.cefd25bb.chunk.css.map",
+    "static/js/2.c0edd438.chunk.js.LICENSE.txt": "/teachers/static/js/2.c0edd438.chunk.js.LICENSE.txt",
+    "static/media/avatar_student.png": "/teachers/static/media/avatar_student.c160cafb.png",
+    "static/media/avatar_student2.png": "/teachers/static/media/avatar_student2.b7e324f3.png",
     "static/media/App.css": "/teachers/static/media/bg-banner.9ee3a719.png",
     "static/media/chat-icon.svg": "/teachers/static/media/chat-icon.8b562a5f.svg",
     "static/media/down-btn.svg": "/teachers/static/media/down-btn.200220c5.svg",
@@ -19,12 +21,13 @@
     "static/media/graduation-icon.svg": "/teachers/static/media/graduation-icon.b98d5772.svg",
     "static/media/material-icon.svg": "/teachers/static/media/material-icon.e6b8f060.svg",
     "static/media/schedule-icon.svg": "/teachers/static/media/schedule-icon.e21bb4af.svg",
+    "static/media/student3.png": "/teachers/static/media/student3.b193a31c.png",
     "static/media/user-icon.svg": "/teachers/static/media/user-icon.1cc06f7f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.96ffc2c3.js",
-    "static/js/2.7fe142e4.chunk.js",
-    "static/css/main.d5811a72.chunk.css",
-    "static/js/main.ac2b2184.chunk.js"
+    "static/js/runtime-main.2869d0b6.js",
+    "static/js/2.c0edd438.chunk.js",
+    "static/css/main.cefd25bb.chunk.css",
+    "static/js/main.eff30082.chunk.js"
   ]
 }
