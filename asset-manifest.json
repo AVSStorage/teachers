@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/teachers/static/css/main.7d15eb2a.chunk.css",
-    "main.js": "/teachers/static/js/main.3ad79f50.chunk.js",
-    "main.js.map": "/teachers/static/js/main.3ad79f50.chunk.js.map",
-    "runtime-main.js": "/teachers/static/js/runtime-main.dbe3406a.js",
-    "runtime-main.js.map": "/teachers/static/js/runtime-main.dbe3406a.js.map",
-    "static/js/2.9c5b6d34.chunk.js": "/teachers/static/js/2.9c5b6d34.chunk.js",
-    "static/js/2.9c5b6d34.chunk.js.map": "/teachers/static/js/2.9c5b6d34.chunk.js.map",
-    "static/js/3.0ab84b8b.chunk.js": "/teachers/static/js/3.0ab84b8b.chunk.js",
-    "static/js/3.0ab84b8b.chunk.js.map": "/teachers/static/js/3.0ab84b8b.chunk.js.map",
+    "main.css": "/teachers/static/css/main.4e73d065.chunk.css",
+    "main.js": "/teachers/static/js/main.39db2e48.chunk.js",
+    "main.js.map": "/teachers/static/js/main.39db2e48.chunk.js.map",
+    "runtime-main.js": "/teachers/static/js/runtime-main.9684af57.js",
+    "runtime-main.js.map": "/teachers/static/js/runtime-main.9684af57.js.map",
+    "static/js/2.ceeba7d6.chunk.js": "/teachers/static/js/2.ceeba7d6.chunk.js",
+    "static/js/2.ceeba7d6.chunk.js.map": "/teachers/static/js/2.ceeba7d6.chunk.js.map",
+    "static/js/3.c3546bff.chunk.js": "/teachers/static/js/3.c3546bff.chunk.js",
+    "static/js/3.c3546bff.chunk.js.map": "/teachers/static/js/3.c3546bff.chunk.js.map",
     "index.html": "/teachers/index.html",
-    "static/css/main.7d15eb2a.chunk.css.map": "/teachers/static/css/main.7d15eb2a.chunk.css.map",
-    "static/js/2.9c5b6d34.chunk.js.LICENSE.txt": "/teachers/static/js/2.9c5b6d34.chunk.js.LICENSE.txt",
+    "static/css/main.4e73d065.chunk.css.map": "/teachers/static/css/main.4e73d065.chunk.css.map",
+    "static/js/2.ceeba7d6.chunk.js.LICENSE.txt": "/teachers/static/js/2.ceeba7d6.chunk.js.LICENSE.txt",
     "static/media/avatar_student.png": "/teachers/static/media/avatar_student.c160cafb.png",
     "static/media/avatar_student2.png": "/teachers/static/media/avatar_student2.b7e324f3.png",
     "static/media/App.css": "/teachers/static/media/bg-banner.9ee3a719.png",
@@ -27,9 +27,9 @@
     "static/media/user-icon.svg": "/teachers/static/media/user-icon.1cc06f7f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dbe3406a.js",
-    "static/js/2.9c5b6d34.chunk.js",
-    "static/css/main.7d15eb2a.chunk.css",
-    "static/js/main.3ad79f50.chunk.js"
+    "static/js/runtime-main.9684af57.js",
+    "static/js/2.ceeba7d6.chunk.js",
+    "static/css/main.4e73d065.chunk.css",
+    "static/js/main.39db2e48.chunk.js"
   ]
 }
