@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44caa03f-8db8-42a5-9104-00e928779687" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pNbvsBzIo8KqjmYPdpqkhhzxQd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../usr/lib/node_modules/eslint" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="Z:\usr\lib\node_modules\eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../../../../usr/bin/node" />
+    <property name="nodejs_package_manager_path" value="Z:\usr\lib\node_modules\npm" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44caa03f-8db8-42a5-9104-00e928779687" name="Default Changelist" comment="" />
+      <created>1615026729879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615026729879</updated>
+      <workItem from="1615026732093" duration="2558000" />
+      <workItem from="1615030136329" duration="12907000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="834" y="188" width="597" height="732" key="#ESLint" timestamp="1615028588051">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="834" y="188" width="597" height="732" key="#ESLint/0.0.1920.1032@0.0.1920.1032" timestamp="1615028588051" />
+    <state x="768" y="302" key="#com.intellij.ide.actions.DebugLogConfigureAction" timestamp="1615028180697">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="768" y="302" key="#com.intellij.ide.actions.DebugLogConfigureAction/0.0.1920.1032@0.0.1920.1032" timestamp="1615028180697" />
+    <state x="764" y="238" key="FileChooserDialogImpl" timestamp="1615028281523">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="764" y="238" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1615028281523" />
+    <state x="480" y="152" key="SettingsEditor" timestamp="1615027911815">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="480" y="152" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1615027911815" />
+    <state x="681" y="328" key="jetbrains.nodejs.interpreters-dialog" timestamp="1615026957037">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="681" y="328" key="jetbrains.nodejs.interpreters-dialog/0.0.1920.1032@0.0.1920.1032" timestamp="1615026957037" />
+    <state x="564" y="292" key="run.anything.popup" timestamp="1615039366217">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="564" y="292" key="run.anything.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1615039366217" />
+  </component>
+</project>

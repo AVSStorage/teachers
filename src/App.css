@@ -13,6 +13,62 @@
   }
 }
 
+.question {
+  background: #E5E6E7;
+border-radius: 5px;
+margin-top: 30px;
+}
+
+.question__variants .r3,
+.question  .btn {
+  font-size: 14px;
+}
+
+.question__variants {
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.test__button {
+  background: rgba(184, 184, 184, 0.2);
+border-radius: 5px;
+border:none;
+padding: 10px 20px;
+font-family: Montserrat;
+margin: 15px auto;
+font-size: 18px;
+line-height: 22px;
+}
+
+.question .card-new {
+  min-height: auto;
+  padding: 10px 20px;
+  margin: 15px auto;
+  font-size: 14px;
+line-height: 17px;
+}
+
+.card-new.file__input {
+  min-height: auto;
+  padding: 20px 15px;
+  padding-left: 50px;
+  font-family: Montserrat;
+font-size: 18px;
+background-size: 2px 100%, 100% 2px, 2px 100% , 100% 2px, 12%;
+background-image: repeating-linear-gradient(0deg, #C1C1C1, #C1C1C1 16px, transparent 16px, transparent 26px, #C1C1C1 26px), repeating-linear-gradient(90deg, #C1C1C1, #C1C1C1 16px, transparent 16px, transparent 26px, #C1C1C1 26px), repeating-linear-gradient(180deg, #C1C1C1, #C1C1C1 16px, transparent 16px, transparent 26px, #C1C1C1 26px), repeating-linear-gradient(270deg, #C1C1C1, #C1C1C1 16px, transparent 16px, transparent 26px, #C1C1C1 26px), url('../src/static/img/files.png');
+line-height: 22px;
+background-position: 0 0, 0 0, 100% 0, 0 100%, 15px center;
+text-align: start;
+width: 251px;
+align-self: flex-start;
+}
+
+.validation-message {
+  font-family: Montserrat;
+font-size: 12px;
+line-height: 15px;
+}
+/* 
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -22,7 +78,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-}
+} */
 
 .App-link {
   color: #61dafb;
@@ -35,4 +91,383 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.tag {
+  background: rgba(164, 164, 164, 0.1);
+  border: 1px solid #BCBCBC;
+  border-radius: 5px;
+  font-size: 13px;
+line-height: 22px;
+padding: 10px 20px;
+font-family: Montserrat;
+
+color: #010001;
+
+
+
+display:flex;
+
+align-items: center;
+margin-right: 20px;
+}
+
+.tag .btn-close {
+  font-size: 10px;
+  margin-left: 10px;
+  opacity: 1;
+}
+
+.tag-input {
+  background: #FFFFFF;
+border:none;
+width: 100%;
+padding-left: 75px;
+padding-right: 15px;
+background-image: url('static/img/search.png');
+background-repeat: no-repeat;
+background-position: 30px center;
+height: 55px;
+}
+
+
+.text-gray-small {
+  font-size: 12px;
+  line-height: 15px;
+  font-family: Montserrat;
+  color: #B6B6B6;
+}
+
+.color-primary {
+  color: #14B498;
+}
+.text-black-small {
+  font-size: 14px;
+  line-height: 20px;
+  color: #000;
+  font-family: Montserrat;
+}
+
+.cards .card {
+  box-shadow: 0px 10px 20px rgba(194, 194, 194, 0.25);
+border-radius: 15px;
+min-height: 140px;
+display: flex;
+align-items: center;
+padding: 10px;
+justify-content: space-around;
+flex-direction: row;
+}
+
+.time {
+  text-align: center;
+}
+
+.time span {
+  font-family: Montserrat;
+font-weight: bold;
+font-size: 36px;
+line-height: 44px;
+
+color: #3A81F9;
+}
+.card-new {
+  min-height: 140px;
+display: flex;
+font-size: 18px;
+line-height: 29px;
+
+color: #111111;
+
+
+align-items: center;
+justify-content: center;
+background-image: repeating-linear-gradient(0deg, #C1C1C1, #C1C1C1 16px, transparent 16px, transparent 26px, #C1C1C1 26px), repeating-linear-gradient(90deg, #C1C1C1, #C1C1C1 16px, transparent 16px, transparent 26px, #C1C1C1 26px), repeating-linear-gradient(180deg, #C1C1C1, #C1C1C1 16px, transparent 16px, transparent 26px, #C1C1C1 26px), repeating-linear-gradient(270deg, #C1C1C1, #C1C1C1 16px, transparent 16px, transparent 26px, #C1C1C1 26px); background-size: 3px 100%, 100% 3px, 3px 100% , 100% 3px; background-position: 0 0, 0 0, 100% 0, 0 100%; background-repeat: no-repeat; 
+box-sizing: border-box;
+border-radius: 15px;
+font-family: Montserrat;
+
+background-color: transparent;
+border:none;
+}
+
+.modal-content:hover {
+  box-shadow: none !important;
+}
+
+.plus {
+  font-size: 48px;
+line-height: 59px;
+margin-right: 10px;
+  color: #3A81F9;
+
+}
+
+.card__table-header {
+  font-size: 13px;
+line-height: 29px;
+margin-right: 20px;
+display: block;
+}
+
+.add-button-blue {
+  background: #14B498;
+border-radius: 5px;font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 29px;
+
+color: #FFFFFF;
+border:none;
+}
+.profile__image {
+  width: 64px;
+  height: 64px;
+  margin-right: 20px;
+}
+.opacity {
+  opacity: 0.3;
+}
+.card__table-value {
+  font-family: Montserrat;
+font-weight: 600;
+font-size: 13px;
+line-height: 29px;
+
+color: #000000;
+}
+
+.text-gray {
+  font-family: Montserrat;
+
+color: #B6B6B6;
+}
+
+.material__title {
+  font-family: Montserrat;
+  font-weight: 700;
+  font-size: 27px;
+line-height: 44px;
+color: #010001;
+}
+
+.grid-3 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 48px;
+}
+
+
+.grid-4 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 48px;
+}
+
+.grid-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 32px;
+}
+
+.grid-5 {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 32px;
+}
+
+.banner {
+  min-height: 196px;
+  background-image: url('static/img/bg-banner.png');
+  background-color: #E8E9EB;
+  max-width: 273px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  justify-content: flex-end;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.banner__text {
+  padding-bottom: 25px;
+  margin-top: 22px;
+}
+p, label {
+  font-family: Montserrat;
+}
+.banner__link--acent {
+  font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 15px;
+color: #14B498;
+}
+
+
+.checkbox {
+  position: relative;
+display: block;
+width: 51px;
+height: 31px;
+border-radius: 15px;
+background: #F1F1F1;
+cursor: pointer;
+}
+
+.checkbox::after {
+    position: relative;
+    display: block;
+    content: '';
+    width: 27px;
+    height: 27px;
+    top: 1px;
+    left: 3px;
+    border-radius: 50%;
+    background: #14B498;
+    pointer-events: none;
+    transition: all .4s ease-in-out;
+}
+
+.checkbox__input:checked + label span {
+  background-color: #14B498;
+}
+
+.checkbox__input:checked + label span::after {
+  background-color: #FFFFFF;
+  left: 22px;
+}
+
+.form input:checked + label {
+  outline: 3px solid #3A81F9;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+.btn-blue {
+  font-size: 13px;
+  font-family: Montserrat;
+  color: #3A81F9;
+}
+
+@media (min-width: 1440px) {
+  .banner__link--acent {
+    font-size: 1.3vw;
+  }
+}
+
+@media (min-width: 1920px) {
+  .banner__link--acent {
+    font-size: 24px;
+  }
+
+  .material__title {
+    font-size: 36px;
+  }
+
+  .card__table-value,
+  .add-button-blue,
+  .card-new,
+  .card__table-header  {
+    font-size: 24px;
+  }
+
+  .tag,
+  .card__table-value {
+    font-size: 18px;
+  }
+
+  .btn-blue {
+    font-size: 18px;
+  }
+  
+}
+
+
+.btn-bg-round {
+  width: 45px;
+  height: 45px;
+  background: #F5F5F5;
+  border-radius: 50%;
+  padding: 0;
+}
+
+
+
+.material__checkbox-label {
+  width: 40px;
+height: 40px;
+display: flex;
+background: #F2F2F2;
+border-radius: 5px;
+}
+
+.material__card {
+
+background: #FFFFFF;
+border-radius: 5px;
+}
+
+.material__checkbox:focus + .material__checkbox-label {
+  box-shadow: 0 0 10px #719ECE;
+}
+
+
+
+.material__checkbox:checked + .material__checkbox-label {
+  background-image: url('static/img/tick.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.material__label {
+  font-family: Montserrat;
+font-size: 18px;
+line-height: 22px;
+color: #010001;
+}
+
+.add-button {
+  background: #14B498;
+  border-radius: 5px;
+  max-width: 45%;
+  width: 100%;
+  border:none;
+  font-family: Montserrat;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: #FFFFFF;
+}
+
+.navigation-btn {
+  background: #FFFFFF;
+box-shadow: 0px 10px 20px rgba(194, 194, 194, 0.25);
+border-radius: 35px;
+border:none;
+width: 67px;
+font-size: 0;
+height: 67px;
+}
+.navigation-btn--prev::before {
+  content: '';
+  width: 10px;
+  height: 10px;
+  border-style: solid;
+border-width: 5px 10px 5px 0;
+border-color: transparent #c4c4c4 transparent transparent;
+}
+
+.navigation-btn--next::before {
+  content: '';
+  width: 10px;
+  height: 10px;
+  border-style: solid;
+  border-width: 5px 0 5px 10px;
+  border-color: transparent transparent transparent #c4c4c4;
 }

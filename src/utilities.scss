@@ -1,0 +1,14 @@
+$margins: (0: 0px, 4: 10px, 8: 40px);
+
+@each $name, $value in $margins {
+  .mt-#{$name}{
+     margin-top: $value
+  }
+  .ml-#{$name}{
+    margin-left: $value
+  }
+  .mb-#{$name}{
+    margin-bottom: $value
+  }
+}
+

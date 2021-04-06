@@ -1,0 +1,39 @@
+.material-menu {
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    list-style:none;
+    background: #DAEDEA;
+    border-radius: 5px;
+    width: 100%;
+    padding:10px 0;
+    margin-bottom:0;
+
+    &__item {
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 24px;
+       
+      
+
+        a {
+            display: block;
+            padding: 10px;
+            color: #000000;
+            font-family: Montserrat;
+            &.is-active {
+            border-bottom: 1px solid #14B498;
+            }
+        }
+    }
+
+    &__image {
+        margin-right: 15px;
+    }
+
+    @media (min-width: 1920px) {
+        &__item {
+            font-size: 20px;
+        }
+    }
+}

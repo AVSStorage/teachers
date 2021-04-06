@@ -1,0 +1,116 @@
+.card {
+  box-shadow: 0px 10px 20px rgba(194, 194, 194, 0.25);
+  border-radius: 10px;
+  border:none;
+    &__header {
+       padding-top: 20px;
+       padding-bottom: 10px;
+       padding-left: 27px;
+       padding-right: 27px; 
+       border-bottom: 1px solid #EFEFEF; 
+      }
+
+      &__title {
+        font-family: Montserrat;
+      font-weight: 600;
+      font-size: 24px;
+      line-height: 29px;
+      
+      color: #111111;
+      }
+
+      &__description {
+        font-size: 13px;
+        line-height: 33px;
+        padding-top: 26px;
+        padding-left: 27px;
+        padding-right: 27px; 
+        font-family: Montserrat;
+        color: #000000;
+        margin:0;
+
+        &--big {
+          text-align: center;
+          font-size: 22px;
+        }
+      }
+
+      &__link {
+        font-size: 13px;
+        line-height: 22px;
+        padding-left: 27px;
+        padding-right: 27px;
+        padding-top: 15px;        
+        color: #3A81F9;
+        padding-bottom: 28px;
+      }
+
+      &__image {
+        min-height: 183px;
+        width: 100%;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-position: center;
+      }
+
+      &__icon {
+        width: 46px;
+        height: 46px;
+      }
+
+      &__date {
+        font-size: 14px;
+        line-height: 17px;
+        color: #010001;
+        font-family: Montserrat;
+      }
+
+      &__info {
+        font-family: Montserrat;
+font-size: 18px;
+line-height: 33px;
+      }
+
+  @media (min-width: 1440px) {
+    &__title {
+      font-family: Montserrat;
+    font-weight: 600;
+    font-size: 1vw;
+    line-height: 29px;
+    color: #111111;
+    }
+
+    &__date {
+      font-size: 12px;
+    }
+  }  
+  
+  @media (min-width: 1920px) {
+    &__title {
+      font-family: Montserrat;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #111111;
+    }
+    &__description {
+      font-size: 18px;
+      &--big {
+        font-size: 30px;
+      }
+    }
+
+    &__link{
+      font-size: 18px;
+    }
+    &__date {
+      font-size: 14px;
+    }
+  } 
+}
+
+.card .profile__image {
+  width: 95px;
+  height: 95px;
+}

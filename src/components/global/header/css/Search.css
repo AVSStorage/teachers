@@ -1,0 +1,13 @@
+
+.search {
+    background: #FFFFFF;
+    border-radius: 5px;
+    border: none;
+    height: 54px;
+    width: 514px;
+    padding-left: 75px;
+    padding-right: 15px;
+    background-image: url('../../../../static/img/search.png');
+    background-repeat: no-repeat;
+    background-position: 30px center;
+}
